@@ -1,7 +1,19 @@
 <h1 align="center"> Bem-vindo(a) ao perfil do Alex 😁 </h1> 
 
- <div align="center"> <img height ="400"  src="https://media.tenor.com/ua2pghKGg4YAAAAC/lucky-star-anime.gif"/> </div> <br>
+ <div align="center"> <img height ="400"  src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/> </div> <br>
+ 
+ <h2 align="center">
+    Contato
+  </h2>
+  
+ <div align="center">
+  <a href="https://www.instagram.com/allec.sg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexgomes98.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
+<br>
+ 
  <div align="center">
    <a href="https://github.com/crowy-sg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crowy-sg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
@@ -23,15 +35,11 @@
  
  <br>
  
-  <h2 align="center">
-    Contato
-  </h2>
+  
  
 <div align="center"> 
   
-  <a href="https://www.instagram.com/allec.sg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexgomes98.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/crowy-sg/crowy-sg/blob/output/github-contribution-grid-snake.svg)
 
