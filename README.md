@@ -1,12 +1,14 @@
 <h1 align="center"> Bem-vindo(a) ao perfil do Alex 😁 </h1> 
 
+ <div align="center"> <img height ="400"  src="https://media.tenor.com/ua2pghKGg4YAAAAC/lucky-star-anime.gif"/> </div> <br>
+
  <div align="center">
    <a href="https://github.com/crowy-sg">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crowy-sg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <br>
-   <a align="center" href="https://github.com/crowy-sg">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowy-sg&theme=tokyonight">
-</a>
+   
+ <a align="center" href="https://github.com/crowy-sg">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowy-sg&theme=tokyonight">
+ </a>
 
 </div>
  
