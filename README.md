@@ -1,6 +1,6 @@
 <h1 align="center"> Bem-vindo(a) ao perfil do Alex 😁 </h1> 
 
- <div align="center"> <img height ="400"  src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/> </div> <br>
+ <div align="center"> <img height ="370"  src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"/> </div> <br>
  
  <h2 align="center">
     Contato
