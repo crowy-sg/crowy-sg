@@ -15,14 +15,17 @@
 <br>
  
  <div align="center">
-   <a href="https://github.com/crowy-sg">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crowy-sg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
    
- <a align="center" href="https://github.com/crowy-sg">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowy-sg&theme=tokyonight">
- </a>
-
-</div>
+  <a href="https://github.com/crowy-sg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crowy-sg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    
+   <a align="center" href="https://github.com/crowy-sg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crowy-sg&layout=compact&langs_count=6&theme=tokyonight"/>
+    
+    
+    
+    
+   </div>
  
  <h2 align="center">
    Front-end
